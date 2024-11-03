@@ -1,0 +1,13 @@
+
+sort 
+extract fields
+select fields
+skip and limit
+included json data dynamically and added to MongoDB
+
+combine limit with skip
+also setup an option for user to take a pg
+
+setup pagination using page and static 
+
+skip -- to let go nbHits

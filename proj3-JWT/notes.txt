@@ -1,0 +1,21 @@
+JWT is just a way to exchange data between two parties 
+
+JWT has security feature 
+
+if the token passes the validation it means its the same token we have sent 
+and data wasn't tampered 
+
+JWT has header, payload , signature 
+--> in payload we place the info 
+
+payload small --better fpr user
+
+
+-----------------------------------------
+
+session --used to save info on server
+when user logs out or shutdown session values is automatically dlted 
+
+
+cookie- client side
+ 
